@@ -1,7 +1,7 @@
 {
   "name": "expense-tracker",
   "version": "0.1.0",
-  "homepage": "http://pawanptl0.github.io/expenseTracker",
+  "homepage": "https://pawanptl0.github.io/expenseTracker/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
